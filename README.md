@@ -8,8 +8,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. Load Data: Import the dataset and separate features (X) and target (y).
+## Algorithm1. Load Data: Import the dataset and separate features (X) and target (y).
 
 2.Split Data: Divide into training (80%) and testing (20%) sets.
 

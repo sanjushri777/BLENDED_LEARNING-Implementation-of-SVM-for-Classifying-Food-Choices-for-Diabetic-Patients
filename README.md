@@ -10,14 +10,23 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 
 ## Algorithm
 1. Load Data: Import the dataset and separate features (X) and target (y).
+
 2.Split Data: Divide into training (80%) and testing (20%) sets.
+
 3.Scale Features: Standardize the features using StandardScaler.
+
 4.Define SVM Model: Initialize a Support Vector Machine (SVM) classifier.
+
 5.Hyperparameter Grid: Define a range of values for C, kernel, and gamma for tuning.
+
 6.Grid Search: Perform Grid Search with Cross-Validation to find the best hyperparameters.
+
 7.Results Visualization: Create a heatmap to show the mean accuracy for different combinations of hyperparameters.
+
 8.Best Model: Extract the best model with optimal hyperparameters.
+
 9.Make Predictions: Use the best model to predict on the test set.
+
 10.Evaluate Model: Calculate accuracy and print the classification report.
 
 

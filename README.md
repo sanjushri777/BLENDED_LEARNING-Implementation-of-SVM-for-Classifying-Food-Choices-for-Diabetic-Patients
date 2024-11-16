@@ -21,13 +21,14 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 
 6.Grid Search: Perform Grid Search with Cross-Validation to find the best hyperparameters.
 
-7.Results Visualization: Create a heatmap to show the mean accuracy for different combinations of hyperparameters.
+7.Results Visualization: Create a heatmap to show the mean accuracy for different combinations of 
+  hyperparameters.
 
 8.Best Model: Extract the best model with optimal hyperparameters.
 
 9.Make Predictions: Use the best model to predict on the test set.
 
-10.Evaluate Model: Calculate accuracy and print the classification report.
+10.Evaluate Model: Calculate accuracy and print the classification report
 
 
 ## Program:
